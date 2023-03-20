@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+ul {
+  padding: 1rem;
+}
+
+.profile {
+  border: 1px solid #191919;
+  border-radius: 8px;
+  margin: 8px 0;
+  padding: 1rem;
+}
+img {
+  border-radius: 50%;
+}
